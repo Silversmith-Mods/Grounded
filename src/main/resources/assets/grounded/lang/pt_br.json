@@ -1,0 +1,34 @@
+{
+
+  "block.grounded.silt": "Silte",
+  "block.grounded.grassy_silt": "Silte com Grama",
+  "block.grounded.silt_path": "Caminho de Silte",
+  "block.grounded.coarse_silt": "Silte Infértil",
+  "block.grounded.silty_farmland": "Silte Arado",
+
+  "block.grounded.sandy_dirt": "Terra Arenosa",
+  "block.grounded.grassy_sandy_dirt": "Terra Arenosa com Grama",
+  "block.grounded.sandy_dirt_path": "Caminho de Terra Arenosa",
+  "block.grounded.coarse_sandy_dirt": "Terra Arenosa Infértil",
+  "block.grounded.sandy_farmland": "Terra Arenosa Arada",
+
+  "block.grounded.earthen_clay": "Terra Argilosa",
+  "block.grounded.grassy_earthen_clay": "Terra Argilosa com Grama",
+  "block.grounded.earthen_clay_path": "Caminho de Terra Argilosa",
+  "block.grounded.coarse_earthen_clay": "Terra Argilosa Infértil",
+  "block.grounded.earthen_clay_farmland": "Terra Argilosa Arada",
+
+  "block.grounded.permafrost": "Pergelissolo",
+  "block.grounded.grassy_permafrost": "Pergelissolo com Grama",
+  "block.grounded.coarse_permafrost": "Pergelissolo Infértil",
+  "block.grounded.permafrost_path": "Caminho de Pergelissolo",
+
+  "block.grounded.loam": "Solo Franco",
+  "block.grounded.grassy_loam": "Solo Franco com Grama",
+  "block.grounded.loamy_farmland": "Solo Franco Arado",
+
+  "block.grounded.mulch_block": "Húmus",
+  "block.grounded.nulch_block": "Númus",
+
+  "block.grounded.ooze": "Vaza"
+}
